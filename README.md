@@ -1,0 +1,2 @@
+# BlueberryAndGage
+Pathway level analysis is often done at a gene level perspective. Here, we utilize the GAGE pathway analysis tool to explore the most active pathways in  blueberry at different stages of berry development. Here are scripts involved in Gage / Pathview in R. As well as command line scripts for various stages. The code is designed to run on our local cluster and will need heavy tweaking to be of utility elsewhere. 
